@@ -1,7 +1,5 @@
 # Planejamento 
 
-
-
 ## Objetivo 
 - Definir escopo do projeto 
 

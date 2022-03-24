@@ -37,4 +37,4 @@ Todas as atividades a serem desenvolvidas devem estar de acordo com o EAP, de fo
 
 Exemplo de EAP:
 
-![EAP Employ.it](gerenciamento_de_projetos/assets/eap.png)
+![EAP Employ.it](../assets/eap.png)
