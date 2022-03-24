@@ -11,7 +11,6 @@
 * Fornece entrada para todos os outros grupos de processo, onde o Patrocinador do projeto autoriza o ínicio. 
 - Desenvolver o termo de abertura de projeto (TAP)
 - Identificar as partes interessadas 
-* Identifica-se o escopo do projeto
 
 
 ### Termo de Abertura de Projeto (TAP)
