@@ -1,8 +1,9 @@
 # Gerenciamento de Projetos
 
-### Professor: Bruno Coleto 
-### Conteúdo:
-- [Iniciação](./iniciacao.md)
+ Professor: Bruno Coleto 
+
+## Conteúdo:
+- [[iniciacao]]
 - [Planejamento](./planejamento.md)  
 - [Execução, monitoramento e controle](./execucao_monitoramento_controle.md)
 - [Encerramento](./encerramento.md)
