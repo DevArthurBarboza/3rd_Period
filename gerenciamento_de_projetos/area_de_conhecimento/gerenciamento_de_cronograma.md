@@ -48,3 +48,13 @@ controlar o cronograma
 É aplicada em grupos de 5 a 10 pessoas com um moderador que apresenta o problema e os participantes determinam o prazo para execução gravando esta informação em um pedaço de papel, sem que os demais vejam. Após a rodada para estimativa, todos os participantes revelam seu valor e o moderador transita a palavra para os integrantes
 
 ## Técnica de Pert
+
+- Definirmos uma previsão para cada atividade seguindo três pilares: o caso mais otimista, o mais pessimista e o provável mais perto da realidade
+
+## Elaborar um Cronograma 
+
+``````
+	...
+``````
+
+* A atividade de elaborar um cronograma se da ao fato de encontrarmos onde está o caminho crítico do projeto e o quanto de folga existe nas atividades que não são consideradas como críticas no projeto
